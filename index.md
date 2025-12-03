@@ -63,3 +63,8 @@
 
 * Cours 12
   * [Examen 2 Formatif](./Cours%2012/Examen%202%20Formatif/Examen2_A2024_FORMATIF.pdf)
+
+* Cours 13
+  * [Examen final formatif A2023](./Cours%2013/Examen_Final_Sommatif_A2023.pdf)
+  * [Examen final formatif A2024](./Cours%2013/Examen_Final_A2024.pdf)
+  * [Solutions](./Cours%2013/Examens%20finaux%20-%20Solutions/)
